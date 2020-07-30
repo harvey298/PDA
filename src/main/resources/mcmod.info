@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pm",
+  "name": "Player analysis and Threat Detection",
+  "description": "This mod use ai to see if a player is deemed a threat towards you, and calculates a survival rate",
+  "version": "${1.0}",
+  "mcversion": "${1.12.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Harvey298"],
+  "credits": "Harvey298",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
