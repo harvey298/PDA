@@ -29,7 +29,7 @@ public class Main {
 
     @Mod.EventHandler
     public static void Postinit(FMLPostInitializationEvent event) {
-
+        MinecraftForge.EVENT_BUS.register(new GuiHudOverlay());
     }
 
 
