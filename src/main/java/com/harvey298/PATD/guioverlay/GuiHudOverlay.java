@@ -12,7 +12,7 @@ public class GuiHudOverlay extends Gui {
 
     //public void renderOverlay extends Gui {
 
-        private final ResourceLocation backoverlay = new ResourceLocation(Reference.MOD_ID, "texture/darknessflamegery.png");
+        private final ResourceLocation backoverlay = new ResourceLocation(Reference.MOD_ID, "texture/darknessflamegrey.png");
         private final int overlayW = 100, OverlayH = 10;
 
         @SubscribeEvent
